@@ -52,17 +52,22 @@ n8n workflow excution
 
 # Problems Faced & Solutions
 Problem 1: Webhook not triggering
+
 Solution: Corrected webhook URL and activated workflow 
 
 Problem 2: Frontend not connecting to n8n
+
 Solution: Fixed API endpoint and enabled proper request format
 
  Problem 3: AI giving irrelevant responses
+ 
  Solution: Improved prompt structure and input formatting
 
  Problem 4: Confusion between test and production URL
+ 
  Solution: Used correct production webhook
 
  Problem 5: Integration delay
+ 
  Solution: Used mock AI first, then replaced with real integration
 
