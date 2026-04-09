@@ -42,15 +42,18 @@ YouTube tutorials on AI chatbot development.
 GitHub sample projects for reference.
 Stack Overflow for debugging support.
 # Screenshots
+Full stack excution
 <img width="1878" height="786" alt="Screenshot 2026-04-09 203749" src="https://github.com/user-attachments/assets/60ef5472-1cbe-497d-94b8-a77ff7fb8551" />
 <img width="1877" height="786" alt="Screenshot 2026-04-09 203935" src="https://github.com/user-attachments/assets/8cd4c360-d798-4d6d-8de8-318c20162ebb" />
 <img width="1877" height="791" alt="Screenshot 2026-04-09 204039" src="https://github.com/user-attachments/assets/84ef2c06-63ed-44a3-ae60-365129ce3977" />
+n8n workflow excution
 <img width="1358" height="592" alt="Screenshot 2026-04-10 012700" src="https://github.com/user-attachments/assets/b608b2a8-4098-4dba-a3c1-94cea296f6e6" />
 
 
 # Problems Faced & Solutions
 Problem 1: Webhook not triggering
 Solution: Corrected webhook URL and activated workflow 
+
 Problem 2: Frontend not connecting to n8n
 Solution: Fixed API endpoint and enabled proper request format
 
