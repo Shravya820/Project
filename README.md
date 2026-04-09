@@ -49,6 +49,7 @@ Full stack excution
 <img width="1877" height="791" alt="Screenshot 2026-04-09 204039" src="https://github.com/user-attachments/assets/84ef2c06-63ed-44a3-ae60-365129ce3977" />
 n8n workflow excution
 <img width="1253" height="780" alt="Screenshot 2026-04-10 025332" src="https://github.com/user-attachments/assets/d93afdc3-e608-4ef8-bc32-24c2acc31407" />
+<img width="817" height="413" alt="image" src="https://github.com/user-attachments/assets/1df612c6-96e3-4272-aa1e-8c50e9a3fd45" />
 
 
 
