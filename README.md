@@ -45,7 +45,8 @@ Stack Overflow for debugging support.
 <img width="1878" height="786" alt="Screenshot 2026-04-09 203749" src="https://github.com/user-attachments/assets/60ef5472-1cbe-497d-94b8-a77ff7fb8551" />
 <img width="1877" height="786" alt="Screenshot 2026-04-09 203935" src="https://github.com/user-attachments/assets/8cd4c360-d798-4d6d-8de8-318c20162ebb" />
 <img width="1877" height="791" alt="Screenshot 2026-04-09 204039" src="https://github.com/user-attachments/assets/84ef2c06-63ed-44a3-ae60-365129ce3977" />
-<img width="1716" height="807" alt="Screenshot 2026-04-09 204225" src="https://github.com/user-attachments/assets/6a6aed3e-2906-496a-984b-48f66450db9d" />
+<img width="1358" height="592" alt="Screenshot 2026-04-10 012700" src="https://github.com/user-attachments/assets/b608b2a8-4098-4dba-a3c1-94cea296f6e6" />
+
 
 # Problems Faced & Solutions
 Problem 1: Webhook not triggering
