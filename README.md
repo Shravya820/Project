@@ -21,8 +21,9 @@ Response is returned and shown in chat UI.
 # Tech Stack Used
 Frontend: HTML, CSS, JavaScript / React.
 Automation Workflow: n8n.
-AI Engine: Ollama .
+AI Engine: Llama 3 .
 API Communication: REST API (Fetch).
+Tool:Wikipedia
 Version Control: GitHub.
 # architecture diagram
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/15a8ac92-a1f3-4f27-9659-15b0207faf19" />
@@ -37,7 +38,7 @@ Connect frontend API to webhook.
 Open browser and test chatbot.
 #  References & Resources
 n8n official documentation.
-OpenAI / Ollama documentation.
+Llama 3 / Ollama documentation.
 YouTube tutorials on AI chatbot development.
 GitHub sample projects for reference.
 Stack Overflow for debugging support.
@@ -47,7 +48,9 @@ Full stack excution
 <img width="1877" height="786" alt="Screenshot 2026-04-09 203935" src="https://github.com/user-attachments/assets/8cd4c360-d798-4d6d-8de8-318c20162ebb" />
 <img width="1877" height="791" alt="Screenshot 2026-04-09 204039" src="https://github.com/user-attachments/assets/84ef2c06-63ed-44a3-ae60-365129ce3977" />
 n8n workflow excution
-<img width="1358" height="592" alt="Screenshot 2026-04-10 012700" src="https://github.com/user-attachments/assets/b608b2a8-4098-4dba-a3c1-94cea296f6e6" />
+<img width="1253" height="780" alt="Screenshot 2026-04-10 025332" src="https://github.com/user-attachments/assets/d93afdc3-e608-4ef8-bc32-24c2acc31407" />
+
+
 
 
 # Problems Faced & Solutions
