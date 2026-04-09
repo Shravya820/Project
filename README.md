@@ -1,7 +1,7 @@
 # Problem Statement
 AI Movie Assistant Chatbot uses React, Vite, LangChain, and MCP to deliver interactive, personalized movie recommendations through a conversational interface.
 # Business Problem
-.Users struggle to choose movies from huge OTT platforms.
+Users struggle to choose movies from huge OTT platforms.
 Too many options → decision fatigue.
 Reviews are long and time-consuming to read.
 No quick system that suggests movies based on mood or interest.
@@ -26,6 +26,7 @@ API Communication: REST API (Fetch).
 Version Control: GitHub.
 # architecture diagram
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/15a8ac92-a1f3-4f27-9659-15b0207faf19" />
+
 # How to Run in Local
 Clone GitHub repository.
 Install dependencies (npm install).
@@ -45,8 +46,8 @@ Stack Overflow for debugging support.
 <img width="1877" height="786" alt="Screenshot 2026-04-09 203935" src="https://github.com/user-attachments/assets/8cd4c360-d798-4d6d-8de8-318c20162ebb" />
 <img width="1877" height="791" alt="Screenshot 2026-04-09 204039" src="https://github.com/user-attachments/assets/84ef2c06-63ed-44a3-ae60-365129ce3977" />
 <img width="1716" height="807" alt="Screenshot 2026-04-09 204225" src="https://github.com/user-attachments/assets/6a6aed3e-2906-496a-984b-48f66450db9d" />
-# Problems Faced & Solutions
 
+# Problems Faced & Solutions
 Problem 1: Webhook not triggering
 Solution: Corrected webhook URL and activated workflow 
 Problem 2: Frontend not connecting to n8n
