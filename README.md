@@ -82,6 +82,10 @@ We built **AI Movie Assistant**, a responsive chat-based website.
 
 <img width="890" height="598" alt="image" src="https://github.com/user-attachments/assets/753c8aba-a7a8-45e3-93f5-3fa17ae1ff7f" />
 
+# n8n Workflow
+<img width="809" height="386" alt="image" src="https://github.com/user-attachments/assets/fdfd9711-1a2e-4145-b416-fc467e5afa15" />
+
+
 
      
 # 6️⃣ How to Run in Local
