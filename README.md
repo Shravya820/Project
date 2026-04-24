@@ -148,8 +148,6 @@ http://localhost:5173
 <img width="1919" height="868" alt="Screenshot 2026-04-23 221706" src="https://github.com/user-attachments/assets/3dc75bf0-6b9e-44a2-90b5-bffd4470dcea" />
 
 
-
-
 # 🔟 Problems Faced and Solutions
 
 | Problem Faced              | Solution                        |
